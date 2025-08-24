@@ -1,9 +1,15 @@
-# Requirments
+# How to use:
+
+## Clone the repository:
+
+'git clone https://github.com/cypherkrish/ComputerVision.git'
+
+## Requirments
 
 pip install torch
 
 
-# To install pytorch GPU version follow the below link
+## To install pytorch GPU version follow the below link
 
 https://pytorch.org/get-started/locally/
 
